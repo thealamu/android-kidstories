@@ -31,7 +31,7 @@
                 android:fontFamily="@font/comic_sans"
                 android:gravity="top"
                 android:text="About"
-                android:textColor="@color/colorWhite"
+                android:textColor="@color/white"
                 android:textSize="24sp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
