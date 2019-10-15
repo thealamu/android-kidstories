@@ -32,7 +32,8 @@
                     android:layout_height="178dp"
                     android:layout_gravity="center_horizontal"
                     android:layout_weight="1"
-                    android:src="@drawable/profile_pic" />
+                    android:src="@drawable/profile_pic"
+                    tools:ignore="ContentDescription" />
 
                 <TextView
                     android:id="@+id/name"
