@@ -66,5 +66,10 @@
     <string name="about_label">About</string>
     <string name="about_description">Kiddies stories is a mobile app that gives the best of value to your child.</string>
     <string name="developed_by">Developed by mobile track HNG6 2019</string>
+    <string name="bookmarks_label">Bookmarks</string>
+    <string name="sign_in_image_desc">Image showing two kids reading books</string>
+    <string name="enable_night_mode">Enable Night Mode</string>
+    <string name="settings_label">Settings</string>
+    <string name="night_mode">Night Mode</string>
 
 </resources>
