@@ -9,12 +9,13 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="122dp"
-            android:orientation="vertical"
-            android:elevation="2dp"
             android:background="@drawable/nav_cornars"
+            android:elevation="2dp"
+            android:orientation="vertical"
             android:padding="16dp"
 
             app:layout_behavior="@string/appbar_scrolling_view_behavior"
@@ -30,7 +31,7 @@
                 android:layout_marginBottom="8dp"
                 android:fontFamily="@font/comic_sans"
                 android:gravity="top"
-                android:text="About"
+                android:text="@string/about_label"
                 android:textColor="@color/white"
                 android:textSize="24sp"
                 app:layout_constraintBottom_toBottomOf="parent"
@@ -63,7 +64,7 @@
             android:layout_weight="1"
             android:fontFamily="@font/comic_sans"
             android:gravity="center_vertical"
-            android:text="Kiddies stories is a mobile app that gives the best of value to your child."
+            android:text="@string/about_description"
             android:textAlignment="center"
             android:textSize="14sp" />
 
@@ -75,7 +76,7 @@
             android:layout_weight="1"
             android:fontFamily="@font/comic_sans"
             android:gravity="bottom"
-            android:text="Developed by mobile track HNG6 2019"
+            android:text="@string/developed_by"
             android:textAlignment="center"
             android:textSize="14sp" />
     </LinearLayout>

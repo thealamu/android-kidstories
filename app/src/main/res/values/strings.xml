@@ -63,5 +63,8 @@
     <string name="title_activity_the_main">MainActivity</string>
     <string name="open_drawer">Open Drawer</string>
     <string name="close_drawer">Close Drawer</string>
+    <string name="about_label">About</string>
+    <string name="about_description">Kiddies stories is a mobile app that gives the best of value to your child.</string>
+    <string name="developed_by">Developed by mobile track HNG6 2019</string>
 
 </resources>
