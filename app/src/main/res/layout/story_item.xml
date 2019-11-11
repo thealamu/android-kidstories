@@ -28,7 +28,7 @@
                 android:id="@+id/story_item_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Diary of A Wimpy Kid"
+                android:text="@string/diary_of_a_wimpy_kid"
                 android:textSize="24sp" />
 
             <TextView
@@ -51,6 +51,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="12dp"
                 android:layout_marginBottom="12dp"
+                android:fontFamily="@font/calibri_regular"
                 android:text="For Kids  - 4 years old"
                 android:textSize="14sp" />
         </LinearLayout>
